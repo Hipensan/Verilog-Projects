@@ -1,0 +1,17 @@
+C:/ModelSimulation/tb_circuit.v {1 {vlog -work work C:/ModelSimulation/tb_circuit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Add4b
+
+Top level modules:
+	tb_Add4b
+
+} {} {}} C:/ModelSimulation/logicCircuitTest.v {1 {vlog -work work C:/ModelSimulation/logicCircuitTest.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HA
+-- Compiling module FA
+-- Compiling module Add4b
+
+Top level modules:
+	Add4b
+
+} {} {}}

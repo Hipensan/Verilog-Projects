@@ -1,0 +1,8 @@
+C:/ModelSimulation/StopWatch/StopWatch.v {1 {vlog -work work C:/ModelSimulation/StopWatch/StopWatch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module StopWatch
+
+Top level modules:
+	StopWatch
+
+} {} {}}

@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vStopWatch
+!i10b 1
+!s100 ^V3f807Sj@k`?E61;kQ@42
+I=[8ONZmOmIHF2`knLA^cY3
+VB7[6N;I`Qo:`E?=:7d;RV2
+dC:\ModelSimulation\StopWatch
+w1673252283
+8C:/ModelSimulation/StopWatch/StopWatch.v
+FC:/ModelSimulation/StopWatch/StopWatch.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1673252288.504000
+!s107 C:/ModelSimulation/StopWatch/StopWatch.v|
+!s90 -reportprogress|300|-work|work|C:/ModelSimulation/StopWatch/StopWatch.v|
+!s101 -O0
+o-work work -O0
+n@stop@watch
