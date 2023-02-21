@@ -1,0 +1,164 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vAES
+Z1 !s100 :biRJi:fd_`l<@nm0>@3R3
+Z2 I35BOH5LPXTI[z>UHlNedH3
+Z3 VBN8<RgNmIY1<zodoooQk11
+Z4 dC:\Users\admin\Desktop\AES_NEW
+Z5 w1676873033
+Z6 8C:/Users/admin/Desktop/AES_NEW/AES.v
+Z7 FC:/Users/admin/Desktop/AES_NEW/AES.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/AES.v|
+Z10 o-work work -O0
+Z11 n@a@e@s
+Z12 !s108 1676874229.256000
+Z13 !s107 C:/Users/admin/Desktop/AES_NEW/AES.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vaes_sbox
+!i10b 1
+!s100 QHh3gg@g]oh[P]Cl8k;n73
+IIlmWHelKELNiT^SAoDQ9z2
+Z14 V2I3:1?mhlOD]5YB[IU]F[2
+R4
+w1676874224
+Z15 8C:/Users/admin/Desktop/AES_NEW/SBOX.v
+Z16 FC:/Users/admin/Desktop/AES_NEW/SBOX.v
+L0 14
+R8
+r1
+!s85 0
+31
+!s108 1676874229.462000
+!s107 C:/Users/admin/Desktop/AES_NEW/SBOX.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/SBOX.v|
+!s101 -O0
+R10
+vInv_aes_sbox
+Z18 I50V0ke_DM]z;5Cn^DA;DE0
+Z19 V2_]J5f=k`?nUZ[h[1NMK`2
+R4
+Z20 w1676874227
+Z21 8C:/Users/admin/Desktop/AES_NEW/InvSBOX.v
+Z22 FC:/Users/admin/Desktop/AES_NEW/InvSBOX.v
+L0 14
+R8
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/InvSBOX.v|
+R10
+Z24 n@inv_aes_sbox
+!i10b 1
+Z25 !s100 Mb>^=KJ=GnYj68:4[kAk81
+!s85 0
+Z26 !s108 1676874229.430000
+Z27 !s107 C:/Users/admin/Desktop/AES_NEW/InvSBOX.v|
+!s101 -O0
+vInv_ShiftRows
+Z28 !s100 nARKZXOkA7UI<Y3X[MPI11
+Z29 I?ijbgBm2[M0IV_l9H4@:A2
+Z30 VDP^mm]aiRilIh1zY?OiOU0
+R4
+Z31 w1676873995
+Z32 8C:/Users/admin/Desktop/AES_NEW/ShiftRows.v
+Z33 FC:/Users/admin/Desktop/AES_NEW/ShiftRows.v
+L0 68
+R8
+r1
+31
+Z34 !s108 1676874229.391000
+Z35 !s107 C:/Users/admin/Desktop/AES_NEW/ShiftRows.v|
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/ShiftRows.v|
+R10
+Z37 n@inv_@shift@rows
+!i10b 1
+!s85 0
+!s101 -O0
+vKeyExpansion
+Z38 !s100 F106<WMgDeDB?2CD8Jb?k1
+Z39 I[D0_lZ2:=CK@`imBX35`f2
+Z40 VTfk53Q8iHXiBFUJR`0K>33
+R4
+Z41 w1676866707
+Z42 8C:/Users/admin/Desktop/AES_NEW/KeyExpansion.v
+Z43 FC:/Users/admin/Desktop/AES_NEW/KeyExpansion.v
+L0 23
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/KeyExpansion.v|
+R10
+Z45 n@key@expansion
+Z46 !s108 1676874229.359000
+Z47 !s107 C:/Users/admin/Desktop/AES_NEW/KeyExpansion.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMixCol
+Z48 !s100 nK:GHH:oRFh7IB0EnYG2o3
+Z49 IXg<DghiCh_doE2RCILJe71
+Z50 V<S9hTYXOoM9>H3P6IO8eU0
+R4
+Z51 w1675396763
+Z52 8C:/Users/admin/Desktop/AES_NEW/AES_MixCol.v
+Z53 FC:/Users/admin/Desktop/AES_NEW/AES_MixCol.v
+L0 1
+R8
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/AES_MixCol.v|
+R10
+Z55 n@mix@col
+Z56 !s108 1676874229.298000
+Z57 !s107 C:/Users/admin/Desktop/AES_NEW/AES_MixCol.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftRows
+Z58 !s100 =TMAhRNZRO1]jQEF=RRGD2
+Z59 IXT8keEmVGFNzl`IR>I<eM0
+Z60 V=nHb]PiRSlTa`Rj9NiVca1
+R4
+R31
+R32
+R33
+L0 31
+R8
+r1
+31
+R34
+R35
+R36
+R10
+Z61 n@shift@rows
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_AES
+Z62 !s100 SM7CJFMWdob_C::lGAFzM0
+Z63 IKnj@2MI7[CLkcbh=eloDJ0
+Z64 V0TQ^=i:MV3S=nX;16<boD0
+R4
+Z65 w1675404143
+Z66 8C:/Users/admin/Desktop/AES_NEW/tb_AES.v
+Z67 FC:/Users/admin/Desktop/AES_NEW/tb_AES.v
+L0 1
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/AES_NEW/tb_AES.v|
+R10
+Z69 ntb_@a@e@s
+Z70 !s108 1676874229.329000
+Z71 !s107 C:/Users/admin/Desktop/AES_NEW/tb_AES.v|
+!i10b 1
+!s85 0
+!s101 -O0

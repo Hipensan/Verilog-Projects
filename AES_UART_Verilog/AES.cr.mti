@@ -1,0 +1,52 @@
+C:/Users/admin/Desktop/AES_NEW/InvSBOX.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/InvSBOX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Inv_aes_sbox
+
+Top level modules:
+	Inv_aes_sbox
+
+} {} {}} C:/Users/admin/Desktop/AES_NEW/ShiftRows.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/ShiftRows.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftRows
+-- Compiling module Inv_ShiftRows
+
+Top level modules:
+	ShiftRows
+	Inv_ShiftRows
+
+} {} {}} C:/Users/admin/Desktop/AES_NEW/AES.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/AES.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AES
+
+Top level modules:
+	AES
+
+} {} {}} C:/Users/admin/Desktop/AES_NEW/KeyExpansion.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/KeyExpansion.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module KeyExpansion
+
+Top level modules:
+	KeyExpansion
+
+} {} {}} C:/Users/admin/Desktop/AES_NEW/tb_AES.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/tb_AES.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_AES
+
+Top level modules:
+	tb_AES
+
+} {} {}} C:/Users/admin/Desktop/AES_NEW/SBOX.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/SBOX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aes_sbox
+
+Top level modules:
+	aes_sbox
+
+} {} {}} C:/Users/admin/Desktop/AES_NEW/AES_MixCol.v {1 {vlog -work work C:/Users/admin/Desktop/AES_NEW/AES_MixCol.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MixCol
+
+Top level modules:
+	MixCol
+
+} {} {}}
