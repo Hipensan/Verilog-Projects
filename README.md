@@ -1,3 +1,4 @@
-# AES-UART
-  * AES + UART module, written in Verilog
+# Verilog Projects
+  * HexKeyPad
+  * AES+UART
   
